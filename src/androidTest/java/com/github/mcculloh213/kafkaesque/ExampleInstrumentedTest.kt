@@ -1,4 +1,4 @@
-package net.ddns.hdmccullough.kafkaesque
+package com.github.mcculloh213.kafkaesque
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
